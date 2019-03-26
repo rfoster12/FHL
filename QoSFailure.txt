@@ -1,0 +1,8 @@
+QosFailures missing in Geneva Dashboard
+
+I am building a dashboard and finding that only Qos events of type 'success' are showing up, despite 'unexpected failure' Qos events existing in Jarvis.
+
+QosEvents (successes and failures): here
+Dashboard found: here 
+
+Would someone be able to take a look and see if there is something I'm missing? I'm unsure as to why I'm not seeing these failures in the dashboard?
